@@ -1,0 +1,18 @@
+.font {
+    font-family: "Lucida Console", sans-serif;
+    background-color:beige;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+.font.align {
+    text-align: center;
+    font-size: 36px;
+}
+
+.font.short {
+    font-size: 24px;
+}
